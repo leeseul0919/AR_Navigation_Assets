@@ -1,0 +1,162 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.unity3d.player" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="26"
+7-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.INTERNET" />
+10-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:3-65
+10-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:3:20-62
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:3-63
+11-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:4:20-60
+12
+13    <uses-feature android:glEsVersion="0x00030000" />
+13-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:3-52
+13-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:5:17-49
+14    <uses-feature
+14-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:3-83
+15        android:name="android.hardware.camera"
+15-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:17-55
+16        android:required="false" />
+16-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:6:56-80
+17    <uses-feature
+17-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:3-93
+18        android:name="android.hardware.camera.autofocus"
+18-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:17-65
+19        android:required="false" />
+19-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:7:66-90
+20    <uses-feature
+20-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:3-89
+21        android:name="android.hardware.camera.front"
+21-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:17-61
+22        android:required="false" />
+22-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:8:62-86
+23    <uses-feature
+23-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:3-88
+24        android:name="android.hardware.touchscreen"
+24-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:17-60
+25        android:required="false" />
+25-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:9:61-85
+26    <uses-feature
+26-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:3-99
+27        android:name="android.hardware.touchscreen.multitouch"
+27-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:17-71
+28        android:required="false" />
+28-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:10:72-96
+29    <uses-feature
+29-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:3-108
+30        android:name="android.hardware.touchscreen.multitouch.distinct"
+30-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:17-80
+31        android:required="false" />
+31-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:11:81-105
+32    <uses-feature
+32-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:3-85
+33        android:name="android.hardware.camera.ar"
+33-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:17-58
+34        android:required="true" />
+34-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:29:59-82
+35    <uses-feature
+35-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:3-83
+36        android:name="com.google.ar.core.depth"
+36-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:17-56
+37        android:required="true" />
+37-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:30:57-80
+38
+39    <application android:extractNativeLibs="true" >
+39-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:3-28:17
+39-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:12:16-48
+40        <meta-data
+40-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:5-69
+41            android:name="unity.splash-mode"
+41-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:16-48
+42            android:value="0" />
+42-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:13:49-66
+43        <meta-data
+43-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:5-74
+44            android:name="unity.splash-enable"
+44-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:16-50
+45            android:value="True" />
+45-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:14:51-71
+46        <meta-data
+46-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:5-78
+47            android:name="unity.launch-fullscreen"
+47-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:16-54
+48            android:value="True" />
+48-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:15:55-75
+49        <meta-data
+49-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:5-81
+50            android:name="notch.config"
+50-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:16-43
+51            android:value="portrait|landscape" />
+51-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:16:44-78
+52        <meta-data
+52-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:5-84
+53            android:name="unity.auto-report-fully-drawn"
+53-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:16-60
+54            android:value="true" />
+54-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:17:61-81
+55
+56        <activity
+56-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:5-25:16
+57            android:name="com.unity3d.player.UnityPlayerActivity"
+57-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:15-68
+58            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+58-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:180-361
+59            android:exported="true"
+59-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:433-456
+60            android:hardwareAccelerated="false"
+60-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:397-432
+61            android:launchMode="singleTask"
+61-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:148-179
+62            android:resizeableActivity="false"
+62-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:362-396
+63            android:screenOrientation="portrait"
+63-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:111-147
+64            android:theme="@style/UnityThemeSelector" >
+64-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:18:69-110
+65            <intent-filter>
+65-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:19:7-22:23
+66                <category android:name="android.intent.category.LAUNCHER" />
+66-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:9-69
+66-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:20:19-66
+67
+68                <action android:name="android.intent.action.MAIN" />
+68-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:9-61
+68-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:21:17-58
+69            </intent-filter>
+70
+71            <meta-data
+71-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:7-82
+72                android:name="unityplayer.UnityActivity"
+72-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:18-58
+73                android:value="true" />
+73-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:23:59-79
+74            <meta-data
+74-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:7-70
+75                android:name="notch_support"
+75-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:18-46
+76                android:value="true" />
+76-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:24:47-67
+77        </activity>
+78
+79        <meta-data
+79-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:5-88
+80            android:name="unityplayer.SkipPermissionsDialog"
+80-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:16-64
+81            android:value="true" />
+81-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:26:65-85
+82        <meta-data
+82-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:5-77
+83            android:name="com.google.ar.core"
+83-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:16-49
+84            android:value="required" />
+84-->C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\AndroidManifest.xml:27:50-74
+85    </application>
+86
+87</manifest>

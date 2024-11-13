@@ -1,0 +1,97 @@
+<libraries>
+  <library
+      name="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary::release"
+      jars="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\3a212c571180e384f5fb506be3cd5e3a\transformed\out\jars\classes.jar;C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\3a212c571180e384f5fb506be3cd5e3a\transformed\out\jars\libs\unity-classes.jar"
+      resolved="Gradle:unityLibrary:unspecified"
+      folder="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\.transforms\3a212c571180e384f5fb506be3cd5e3a\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+  <library
+      name=":arcore_client:@aar"
+      jars="C:\Users\leeseul\.gradle\caches\transforms-3\ece6358c3c3b544f3d6f3cc51ffa918c\transformed\arcore_client\jars\classes.jar"
+      resolved=":arcore_client:"
+      folder="C:\Users\leeseul\.gradle\caches\transforms-3\ece6358c3c3b544f3d6f3cc51ffa918c\transformed\arcore_client"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":UnityARCore:@aar"
+      jars="C:\Users\leeseul\.gradle\caches\transforms-3\eb787df84e352b879817b7207da82431\transformed\UnityARCore\jars\classes.jar"
+      resolved=":UnityARCore:"
+      folder="C:\Users\leeseul\.gradle\caches\transforms-3\eb787df84e352b879817b7207da82431\transformed\UnityARCore"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":ARPresto:@aar"
+      jars="C:\Users\leeseul\.gradle\caches\transforms-3\008b578ef33579f89d10926dc0da4ffc\transformed\ARPresto\jars\classes.jar"
+      resolved=":ARPresto:"
+      folder="C:\Users\leeseul\.gradle\caches\transforms-3\008b578ef33579f89d10926dc0da4ffc\transformed\ARPresto"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":VuforiaEngine:@aar"
+      jars="C:\Users\leeseul\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\classes.jar;C:\Users\leeseul\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\libs\VuforiaEngine.jar;C:\Users\leeseul\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine\jars\libs\VuforiaUnityPlayer.jar"
+      resolved=":VuforiaEngine:"
+      folder="C:\Users\leeseul\.gradle\caches\transforms-3\1197373c69955c23c987919b13f35dd9\transformed\VuforiaEngine"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name=":unityandroidpermissions:@aar"
+      jars="C:\Users\leeseul\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions\jars\classes.jar"
+      resolved=":unityandroidpermissions:"
+      folder="C:\Users\leeseul\.gradle\caches\transforms-3\942592b881e85bb2d9a4b9fd85d0e97b\transformed\unityandroidpermissions"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+      jars="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\38ee0003448d87e88d9da080aace205e\transformed\out\jars\classes.jar"
+      resolved="Gradle.unityLibrary:xrmanifest.androidlib:unspecified"
+      folder="C:\Users\leeseul\My project (4)\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\.transforms\38ee0003448d87e88d9da080aace205e\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+</libraries>
