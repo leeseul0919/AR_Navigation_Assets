@@ -6,9 +6,8 @@ git clone -b unity_files https://github.com/leeseul0919/AR_Navigation_Assets.git
 ```
 
 ## Navigation Function Clip
-```
-https://youtu.be/rp5wCgOV59M
-```
+[![Video Label](http://img.youtube.com/vi/rp5wCgOV59M/0.jpg)]
+(https://youtu.be/rp5wCgOV59M)
 
 ## Obstacle & Searching for a new route Function Clip
 ```
