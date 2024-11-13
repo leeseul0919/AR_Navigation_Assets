@@ -11,7 +11,9 @@ git clone -b unity_files https://github.com/leeseul0919/AR_Navigation_Assets.git
 (https://youtu.be/rp5wCgOV59M)
 
 ## Obstacle & Searching for a new route Function Clip
-% include video id="lUt41NqxkrI" provider="youtube" %
+![Video Label](http://img.youtube.com/vi/lUt41NqxkrI/0.jpg)
+
+(https://youtu.be/lUt41NqxkrI)
 ```
 https://youtu.be/lUt41NqxkrI
 ```
